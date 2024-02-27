@@ -1,0 +1,39 @@
+.i {
+    background: linear-gradient(180deg, #65f107, #e1ffea22 100%);
+    /* padding-right: 2.8rem;
+    padding-left: 2.8rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    */
+    
+    display: "flex";
+    flex-direction: column;
+    gap:".6rem";
+}
+
+    
+
+
+.i img {
+    width: 350px;
+    height: 418px;
+}
+
+.p{
+    padding-top: 2rem;
+    padding-left: 2rem;
+}
+.t {
+    font-size: 1.5rem;
+    
+
+}
+.r{
+    font-size: 1.3rem;
+      
+}
+.u{
+    color: #1060df;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
